@@ -2,6 +2,7 @@ absl-py==2.0.0
 attrs==23.1.0
 cffi==1.16.0
 contourpy==1.2.0
+cvzone==1.6.1
 cycler==0.12.1
 flatbuffers==23.5.26
 fonttools==4.44.0
